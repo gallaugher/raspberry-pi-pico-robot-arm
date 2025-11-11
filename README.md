@@ -1,4 +1,5 @@
 3D printed robot arm.
+[![Robot Arm Demo](https://img.youtube.com/vi/PTJCbuCCc68/maxresdefault.jpg)](https://youtube.com/shorts/PTJCbuCCc68)
 3D print is from:
 https://www.printables.com/model/97370-easy-robot-arm-sg90-servos-now-steppers-too-update/comments#preview.UKbhm
 You can add more servos, but I only use 3 - one for tilting what I call the base
