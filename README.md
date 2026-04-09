@@ -5,6 +5,8 @@ https://www.printables.com/model/97370-easy-robot-arm-sg90-servos-now-steppers-t
 You can add more servos, but I only use 3 - one for tilting what I call the base
 I did not add servos to swivel the base or swivel the claw, but you can add those, and add another 3D printed part so you have a "two elbow" servo. I opted not to do add these extras to keep costs and complexity down for a nice class project that all can complete.
 
+I've found that the arm is more stable when you add a washer sized to fit around the arm joint opposite the servo horn axel. I have included an Adobe Illustrator file named "washers_for_robot_arm_joints.ai" which you can use to laser-cut a bunch of these washers. I used 1/8" acryllic.
+
 Parts I printed are in the 3mf file above.
 
 Instead of using the printed axels, I opted for 1/8" dowel, which can be snipped off with wire cutters. I hot-glued the dowels into place & I think this is a better solution.
